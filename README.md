@@ -15,4 +15,5 @@ A simple and secure Password Manager built with Python. This tool allows users t
 - Python 3
 - `cryptography` (for encryption, optional)
 - `os`, `getpass` modules
+- 'json'(for storage)
 
